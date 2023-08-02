@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dispatch_Controller_RESTapi.props" />
+</Project>
